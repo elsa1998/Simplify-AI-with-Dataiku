@@ -2,8 +2,6 @@
 
 Project Team: 
 Balvinder Singh Uppal, Divyansh Tripathi, Caitlyn Yen, Elsa Yen, Sai Pranit Srivatsa Valluru, Sherry Zheng                                   
-Project Video: 
-https://www.youtube.com/watch?v=GA7SeSu2GjY 
  
 ## Why Dataiku?
  
